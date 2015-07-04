@@ -12,4 +12,5 @@ git push 'repositori's name' master
 
 git add . (добавляет все новые файлы в деректории)
 
+git clone "HTTPS"
 
